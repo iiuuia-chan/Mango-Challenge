@@ -11,7 +11,13 @@ Las pruebas validan el flujo funcional de la aplicación https://buggy.justtesti
 - npm (probado con versión 11.3.0)
 - Acceso a internet (la aplicación es pública)
 - Cypress ^15.5.0 (instalado automáticamente con `npm install`)
+---
 
+## Compatibilidad(OS y Browser utilizados)
+
+
+- Plataforma: Microsoft Windows 11 Home - 10.0.26100
+- Navegador: Chrome(Cypress) Version: 141.0.7390.125
 ---
 
 ## Instalación
