@@ -16,11 +16,16 @@ Las pruebas validan el flujo funcional de la aplicación https://buggy.justtesti
 
 ## Instalación
 
-### Clonar el repositorio y luego instalar las dependencias:
+### Clonar el repositorio, navegar al proyecto y luego instalar las dependencias:
 
 ```bash
-git clone <url_del_repositorio>
+#Clonar repo
+git clone https://github.com/iiuuia-chan/Mango-Challenge.git
+
+#navegar a HU2 folder(proyecto)
 cd hu2
+
+#Instalar dependencias
 npm install
 ```
 
