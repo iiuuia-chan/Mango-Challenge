@@ -97,5 +97,10 @@ HU2/
 
 > Entorno utilizado: Windows 10, Node.js 24.2.0, npm 11.3.0.
 
+
+### Documentación de Test Cases
+> Adjunto la documentación de los Test-Cases realizados para el User-Story 2 (HU2) 
+> https://docs.google.com/spreadsheets/d/1iOk1XrHKxoBVCQYiPj_jqemURWXeOAqFXfyGITqXPes/edit?usp=sharing
+
 > Autor: Yuya Yamawaki
 > Proyecto: Prueba Técnica QA – Cypress
